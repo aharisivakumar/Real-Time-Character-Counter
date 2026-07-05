@@ -19,7 +19,7 @@ A simple and responsive **Real-Time Character Counter** built using **HTML, CSS,
 * JavaScript (DOM Manipulation)
 
 ## Link
-https://aharisivakumar.github.io/Real-Time-Character-Counter/
+ https://aharisivakumar.github.io/Real-Time-Character-Counter/
 
 
 ## 📸 Functionality
